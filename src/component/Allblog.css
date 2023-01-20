@@ -1,0 +1,15 @@
+
+.card{
+    width:18vw;
+    height:22vw;
+    transition:all , 80s;
+}
+.card:hover{
+width: 19vw;
+height: 23vw;
+/* transform: all; */
+}
+.card-img{
+    width:90%;
+    height:15vw
+}
